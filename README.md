@@ -22,8 +22,5 @@ Prueba react , para desarrollar la prueba se debe tener en consideracion .
   - Crear un mock de los servicios
   - Utilizar Hooks
 
-# Funcionalidades!
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
 
